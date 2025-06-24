@@ -27,3 +27,7 @@ Technical Features
  Input Validation - Prevents empty tasks and handles edge cases
  Accessible - Screen reader friendly with proper ARIA labels
  Object-Oriented - Clean, maintainable code architecture
+![image](https://github.com/user-attachments/assets/2bfff298-2c5c-4aaf-8572-98b114937f12)
+![image](https://github.com/user-attachments/assets/4415d158-01eb-4a76-84bb-07e64ea7f5fb)
+
+
